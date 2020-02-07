@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "poni",
+    "name": "Poni",
+    "description": "A system management and provisioning tool, with centralized configuration management",
+    "tags": [
+      "linux",
+      "open-source",
+      "config-mgmt",
+      "provisioning",
+      "orchestration",
+      "python"
+    ],
+    "url": "http://melor.github.io/poni/"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "awsbox",
+    "name": "AWSBox",
+    "description": "DIY Platform-as-a-Service tool specialized for NodeJS projects with AWS as the backend, and created by Mozilla",
+    "tags": [
+      "linux",
+      "open-source",
+      "cloud-paas",
+      "nodejs"
+    ],
+    "url": "https://github.com/mozilla/awsbox"
+  }
+]

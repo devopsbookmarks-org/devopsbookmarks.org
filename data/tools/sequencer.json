@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "sequencer",
+    "name": "Sequencer",
+    "description": "Sequencer can ping, power on and power off clusters of machines in your datacenter",
+    "tags": [
+      "linux",
+      "open-source",
+      "orchestration",
+      "python"
+    ],
+    "url": "http://pv-bull.github.io/sequencer/"
+  }
+]

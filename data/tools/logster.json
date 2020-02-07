@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "logster",
+    "name": "Logster",
+    "description": "Reads log files and generates metrics in Graphite, Ganglia or Amazon CloudWatch",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "monitoring",
+      "python"
+    ],
+    "url": "https://github.com/etsy/logster"
+  }
+]

@@ -1,0 +1,57 @@
+[{
+  "name": "Source Code Management",
+  "slug": "scm",
+  "include_tags": [ "scm", "vcs" ]
+}, {
+  "name": "Continuous Integration & Delivery",
+  "slug": "ci",
+  "include_tags": [ "ci", "cd" ]
+}, {
+  "name": "Packaging & Artifacts",
+  "slug": "packaging",
+  "include_tags": [ "packaging", "artifacts" ]
+}, {
+  "name": "Virtualization & Containers",
+  "slug": "virt",
+  "include_tags": [ "virt" ]
+}, {
+  "name": "Cloud & PaaS Environments",
+  "slug": "cloud-paas",
+  "include_tags": [ "cloud", "cloud-paas", "paas" ]
+}, {
+  "name": "Configuration Management",
+  "slug": "config-management",
+  "include_tags": [ "cm", "config", "config-mgmt" ]
+}, {
+  "name": "Provisioning",
+  "slug": "provisioning",
+  "include_tags": [ "provisioning" ]
+}, {
+  "name": "Orchestration",
+  "slug": "orchestration",
+  "include_tags": [ "orchestration" ]
+}, {
+  "name": "Service Discovery",
+  "slug": "service-discovery",
+  "include_tags": [ "service-discovery" ]
+}, {
+  "name": "Process Management",
+  "slug": "process-mgmt",
+  "include_tags": [ "process-mgmt" ]
+}, {
+  "name": "Logging & Monitoring",
+  "slug": "monitoring",
+  "include_tags": [ "logging", "monitoring" ]
+}, {
+  "name": "Metrics & Visualization",
+  "slug": "metrics-visualization",
+  "include_tags": [ "metrics", "visualization" ]
+}, {
+  "name": "Security & Hardening",
+  "slug": "security",
+  "include_tags": [ "security", "hardening" ]
+}, {
+  "name": "Error Tracking",
+  "slug": "errors",
+  "include_tags": [ "errors" ]
+}]

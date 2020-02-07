@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "packer",
+    "name": "Packer",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms (like VirtualBox, VMWare, EC2, DigitalOcean, etc) from a single configuration file.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "virt",
+      "cloud-paas",
+      "go"
+    ],
+    "url": "http://www.packer.io/"
+  }
+]

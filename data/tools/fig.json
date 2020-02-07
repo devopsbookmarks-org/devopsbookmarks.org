@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "fig",
+    "name": "Fig",
+    "description": "A package management tool, similar to Ivy/APT, but language agnostic, faster and works well with both executables and libraries.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "packaging",
+      "ruby"
+    ],
+    "url": "https://github.com/mfoemmel/fig"
+  }
+]

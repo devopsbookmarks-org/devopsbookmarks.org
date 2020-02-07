@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "cft",
+    "name": "Cft",
+    "description": "Cft watches as you make changes to your server, and then creates puppet manifests for the resulting actions. Simplifies creating puppet configuration.",
+    "tags": [
+      "linux",
+      "open-source",
+      "config-mgmt",
+      "provisioning",
+      "orchestration"
+    ],
+    "url": "https://gitorious.org/cft/cft"
+  }
+]
