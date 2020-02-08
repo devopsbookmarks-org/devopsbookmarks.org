@@ -12,7 +12,7 @@ Vagrant.configure("2") do |config|
     yum update
     yum install -y curl vim build-essential git
     echo "Installing necessary packages..."
-    curl -sSL https://deb.nodesource.com/setup_13.x | sudo bash -
+    curl -sSL https://rpm.nodesource.com/setup_13.x | sudo bash -
     yum install -y nodejs
     npm install -g grunt-cli
 
