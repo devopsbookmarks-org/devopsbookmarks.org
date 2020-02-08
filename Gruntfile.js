@@ -25,7 +25,7 @@ module.exports = function(grunt) {
           includePaths: [ 'bower_components' ]
         },
         files: {
-          'public/stylesheets/application.css' : 'public/stylesheets/application.scss'
+          'public/stylesheets/application.css' : 'public/stylesheets/application.css'
         }
       }
     },
