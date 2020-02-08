@@ -18,18 +18,6 @@ module.exports = function(grunt) {
       }
     },
 
-    sass: {
-      dist: {
-        options: {
-          outputStyle: 'compressed',
-          includePaths: [ 'bower_components' ]
-        },
-        files: {
-          'public/stylesheets/application.css' : 'public/stylesheets/application.css'
-        }
-      }
-    },
-
     express: {
       dev: {
         options: {
@@ -42,10 +30,6 @@ module.exports = function(grunt) {
       options: {
         spawn: false
       },
-      sass: {
-        files: [ 'public/stylesheets/**/*.scss' ],
-        tasks: [ 'sass:dist' ]
-      },
       js: {
         files: [ 'server.js', 'data/**/*.js', 'routes/**/*.js', 'data/**/*.json' ],
         tasks: [ 'express:dev' ]
@@ -53,7 +37,7 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.registerTask('build', [ 'jshint', 'bower:install', 'sass:dist' ]);
+  grunt.registerTask('build', [ 'jshint', 'bower:install' ]);
   grunt.registerTask('dev', [ 'build', 'express:dev', 'watch' ]);
 
   grunt.registerTask('default', ['dev']);
