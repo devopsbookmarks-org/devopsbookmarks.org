@@ -8,6 +8,10 @@ There are new awesome tools and frameworks being released everyday.
 This is an open and transparent attempt at aggregating all these tools
 and frameworks.
 
+## Current Build
+
+[![Build Status](https://travis-ci.org/zigsphere/devopsbookmarks.org.svg?branch=master)](https://travis-ci.org/zigsphere/devopsbookmarks.org)
+
 ## Contributing
 
 Refer to [CONTRIBUTING.md](https://github.com/zigsphere/devopsbookmarks.org/blob/master/CONTRIBUTING.md)
