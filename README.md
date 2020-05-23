@@ -11,7 +11,7 @@ and frameworks.
 ## Current Build Status
 
 [![Build Status](https://travis-ci.org/zigsphere/devopsbookmarks.org.svg?branch=master)](https://travis-ci.org/zigsphere/devopsbookmarks.org)
-[![CircleCI](https://circleci.com/gh/zigsphere/devopsbookmarks.org.svg?style=shield)](https://circleci.com/gh/zigsphre/devopsbookmarks.org)
+[![CircleCI](https://circleci.com/gh/zigsphere/devopsbookmarks.org.svg?style=shield)](https://circleci.com/gh/zigsphere/devopsbookmarks.org)
 
 ## Contributing
 
