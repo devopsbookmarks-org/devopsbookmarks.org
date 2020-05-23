@@ -5,4 +5,4 @@ COPY package*.json ./
 RUN npm install
 COPY . .
 EXPOSE 3000
-CMD [ "node", "/opt/devops/server.js" ]
+CMD [ "node", "server.js" ]
