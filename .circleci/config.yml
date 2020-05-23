@@ -1,9 +1,10 @@
-language: node_js
-node_js:
-  - '13'
-install:
-  - npm install --silent
-script:
-  - npm test
-notifications:
-  email: false
+version: 2
+jobs:
+  build:
+    docker:
+      — image: node:13
+    working_directory: ~/test
+    steps:
+      - checkout
+      - run: npm install --silent
+      - run: npm test
