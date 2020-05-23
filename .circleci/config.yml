@@ -7,3 +7,13 @@ jobs:
       - checkout
       - run: npm install --silent
       - run: npm test
+
+  jsonlint:
+    docker:
+      - image: pipelinecomponents/jsonlint:latest
+    steps:
+      - checkout
+      - run:
+          name: JSON Lint
+          command: |
+            find . -not -path './.git/*' -name '*.json' -type f -print0 | parallel --will-cite -k -0 -n1 jsonlint -q
