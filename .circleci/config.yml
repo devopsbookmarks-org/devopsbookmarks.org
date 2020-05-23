@@ -3,9 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/node:latest
-    #working_directory: /opt/devops
     steps:
       - checkout
-      #- run: mkdir /opt/devops
       - run: npm install --silent
       - run: npm test
