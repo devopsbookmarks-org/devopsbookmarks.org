@@ -25,7 +25,7 @@ VAGRANT
 * Run `vagrant ssh -c /vagrant/script/server` to start the server
 
 DOCKER
-* Run `docker build -t devops`
+* Run `docker build -t devops .`
 * Run `docker run -p 3000:3000/tcp -d devops devops`
 * Navigate to http://localhost:3000 in your browser
 
