@@ -2,9 +2,8 @@ version: 2
 jobs:
   build:
     docker:
-      — image: node:13
+      — image: circleci/node:latest
     working_directory: ~/test
     steps:
-      - checkout
       - run: npm install --silent
       - run: npm test
