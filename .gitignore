@@ -2,7 +2,6 @@
 .vagrant
 ubuntu*
 node_modules
-package-lock.json
 .git
 .DS_Store*
 .Spotlight-V100
