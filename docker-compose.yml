@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  devopsbookmarks:
+    build: .
+    container_name: devopsbookmarks
+    image: 'node'
+    restart: on-failure
+    ports:
+      - 3000:3000
+
