@@ -1,5 +1,6 @@
 [
   {
+    "slug": "netboot.xyz",
     "name": "Netboot.xyz",
     "description": "Netboot.xyz is a preconfigured iPXE bootloader that completely eliminates the need for large ISO files for a vast range of operating systems.",
     "url": "https://netboot.xyz/",
