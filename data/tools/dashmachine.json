@@ -1,14 +1,15 @@
-
-
-      
-
-
-
 [
-
-      
-
-        
-
-
-
+  {
+    "slug": "dashmachine",
+    "name": "DashMachine",
+    "description": "DashMachine is a free & open-source webapp for putting all of your existing webapps, pages, and bookmarks in one place.",
+    "url": "https://github.com/rmountjoy92/DashMachine",
+    "tags": [
+      "linux",
+      "open-source",
+      "free",
+      "commercial",
+      "visualization"
+    ]
+  }
+]
