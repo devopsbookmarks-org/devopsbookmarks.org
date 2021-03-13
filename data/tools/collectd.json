@@ -3,6 +3,7 @@
     "slug": "collectd",
     "name": "collectd",
     "description": "A daemon that collects system performance statistics periodically, and provides tons of plugins to store and analyze these values",
+    "url": "https://collectd.org/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "c"
-    ],
-    "url": "http://collectd.org/"
+    ]
   }
 ]

@@ -3,12 +3,12 @@
     "slug": "sunzi",
     "name": "Sunzi",
     "description": "A shell-based pure provisioning tool which doesn’t try to do anything else. Has no dependencies other than the shell",
+    "url": "https://github.com/kenn/sunzi",
     "tags": [
       "linux",
       "open-source",
       "provisioning",
       "shell"
-    ],
-    "url": "https://github.com/kenn/sunzi"
+    ]
   }
 ]

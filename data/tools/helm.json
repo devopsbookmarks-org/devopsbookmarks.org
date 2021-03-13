@@ -3,7 +3,7 @@
     "slug": "helm",
     "name": "Helm",
     "description": "Discover & launch great Kubernetes-ready apps",
-    "url": "https://hub.helm.sh/",
+    "url": "https://helm.sh/",
     "tags": [
       "linux",
       "open-source",

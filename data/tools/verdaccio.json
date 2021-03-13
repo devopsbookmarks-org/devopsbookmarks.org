@@ -3,7 +3,7 @@
     "slug": "verdaccio",
     "name": "Verdaccio",
     "description": "Verdaccio is an open-source local repository for NPM packages. It provides private-access packages, caching, and overriding public packages.",
-    "url": "http://www.verdaccio.org/",
+    "url": "https://verdaccio.org/",
     "tags": [
       "linux",
       "windows",
@@ -12,7 +12,7 @@
       "solaris",
       "open-source",
       "free",
-      "packaging", 
+      "packaging",
       "artifacts"
     ]
   }

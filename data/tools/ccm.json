@@ -3,6 +3,7 @@
     "slug": "ccm",
     "name": "Cisco Cloud Center",
     "description": "Use Cisco CloudCenter (formerly CliQr) to more securely deploy and manage applications in data center, private cloud, and public cloud environments. This application-centric cloud management solution helps you modernize your data center or add public cloud application deployment to your service offering.",
+    "url": "http://www.cisco.com/c/en/us/products/cloud-systems-management/cloudcenter/index.html",
     "tags": [
       "linux",
       "windows",
@@ -11,7 +12,6 @@
       "automation",
       "scaling",
       "commercial"
-    ],
-    "url": "http://www.cisco.com/c/en/us/products/cloud-systems-management/cloudcenter/index.html"
+    ]
   }
 ]

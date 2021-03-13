@@ -3,6 +3,7 @@
     "slug": "supervisord-monitor",
     "name": "Supervisord Monitor",
     "description": "Supervisord Monitor is multi server monitoring tool for supervisor - watch, start and stop all your supervisord instances and servvices from one place.",
+    "url": "https://github.com/mlazarov/supervisord-monitor",
     "tags": [
       "linux",
       "windows",
@@ -12,7 +13,6 @@
       "provisioning",
       "php",
       "process-mgmt"
-    ],
-    "url": "https://github.com/mlazarov/supervisord-monitor"
+    ]
   }
 ]

@@ -3,6 +3,7 @@
     "slug": "deploykit",
     "name": "DeployKit",
     "description": "A generic integration tool built on a Message Queue, to make it easy to communicate events and triggers across various parts parts of the infrastructure. Created to ease the pain of configuring many disparate events in a CI",
+    "url": "https://github.com/FuturePublishing/future-deploykit",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "ci",
       "ruby"
-    ],
-    "url": "https://github.com/FuturePublishing/future-deploykit"
+    ]
   }
 ]

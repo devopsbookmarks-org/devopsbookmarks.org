@@ -3,16 +3,16 @@
     "slug": "overops",
     "name": "OverOps",
     "description": "Know when, where, and why code breaks in pre-production and production.",
+    "url": "https://www.overops.com/",
     "tags": [
       "linux",
       "osx",
       "windows",
       "java",
       "errors",
-      "metrics", 
+      "metrics",
       "visualization",
       "monitoring"
-    ],
-    "url": "https://www.overops.com/"
+    ]
   }
 ]

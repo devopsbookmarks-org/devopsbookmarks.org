@@ -3,6 +3,7 @@
     "slug": "dokku",
     "name": "Dokku",
     "description": "It uses docker, git-receive and a few other lightweight and clever libraries to build a quick PaaS, all around just 100 lines of code! An excellent small tool to get started with PaaS systems. The same developer is creating a larger scale, production quality system called Flynn.",
+    "url": "https://github.com/progrium/dokku",
     "tags": [
       "linux",
       "open-source",
@@ -10,7 +11,6 @@
       "cloud-paas",
       "provisioning",
       "shell?"
-    ],
-    "url": "https://github.com/progrium/dokku"
+    ]
   }
 ]

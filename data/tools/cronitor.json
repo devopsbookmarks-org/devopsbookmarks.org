@@ -5,13 +5,13 @@
     "description": "Monitor cron jobs, daemons and almost anything else. No more silent failures.",
     "url": "https://cronitor.io",
     "tags": [
-      "free", 
-      "linux", 
-      "monitoring", 
-      "python", 
-      "realtime", 
-      "cron", 
-      "heartbeat", 
+      "free",
+      "linux",
+      "monitoring",
+      "python",
+      "realtime",
+      "cron",
+      "heartbeat",
       "time"
     ]
   }

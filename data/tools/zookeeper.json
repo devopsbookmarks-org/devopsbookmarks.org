@@ -3,7 +3,7 @@
     "slug": "zookeeper",
     "name": "Apache ZooKeeper",
     "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. It is distributed and highly reliable, with Consensus, group management and presence protocols built-in.",
-    "url": "http://zookeeper.apache.org/",
+    "url": "https://zookeeper.apache.org/",
     "tags": [
       "linux",
       "open-source",

@@ -3,13 +3,13 @@
     "slug": "flynn",
     "name": "Flynn",
     "description": "From the creator of Dokku, Flynn is a full fledged, open source PaaS platform built on top of Docker. You just push code with a Procfile, and that’s it, Flynn immediately picks it up, provisions a Docker container and deploys the latest code! Its tagged as “the product that ops gives to developers”",
+    "url": "https://flynn.io",
     "tags": [
       "linux",
       "open-source",
       "virt",
       "cloud-paas",
       "go"
-    ],
-    "url": "https://flynn.io"
+    ]
   }
 ]

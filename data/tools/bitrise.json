@@ -9,8 +9,11 @@
       "open-source",
       "free",
       "commercial",
-      "ci", "cd",
-      "cloud", "cloud-paas", "paas"
+      "ci",
+      "cd",
+      "cloud",
+      "cloud-paas",
+      "paas"
     ]
   }
 ]

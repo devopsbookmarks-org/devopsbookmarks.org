@@ -3,12 +3,12 @@
     "slug": "credmgr",
     "name": "credmgr",
     "description": "Securely manages privileged account credentials, such as root passwords, using Shamir secret sharing. Its like 1Password for DevOps.",
+    "url": "https://github.com/treyka/credmgr",
     "tags": [
       "linux",
       "open-source",
       "orchestration",
       "python"
-    ],
-    "url": "https://github.com/treyka/credmgr"
+    ]
   }
 ]
