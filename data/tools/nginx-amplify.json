@@ -9,9 +9,12 @@
       "bsd",
       "free",
       "commercial",
-      "logging", "monitoring",
-      "metrics", "visualization",
-      "security", "hardening",
+      "logging",
+      "monitoring",
+      "metrics",
+      "visualization",
+      "security",
+      "hardening",
       "errors"
     ]
   }

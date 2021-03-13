@@ -3,6 +3,7 @@
     "slug": "metrics",
     "name": "Metrics",
     "description": "Captures JVM and application-level metrics for Java",
+    "url": "https://metrics.dropwizard.io/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "java"
-    ],
-    "url": "http://metrics.dropwizard.io/3.2.3/"
+    ]
   }
 ]

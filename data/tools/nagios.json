@@ -3,6 +3,7 @@
     "slug": "nagios-core",
     "name": "Nagios Core",
     "description": "Nagios Core network monitoring software is a powerful, enterprise-class host, server, application, monitoring and alerting tool",
+    "url": "https://www.nagios.org",
     "tags": [
       "linux",
       "solaris",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "c"
-    ],
-    "url": "https://www.nagios.org"
+    ]
   }
 ]

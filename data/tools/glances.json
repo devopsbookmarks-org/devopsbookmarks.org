@@ -3,6 +3,7 @@
     "slug": "glances",
     "name": "Glances",
     "description": "A cross-platform, curses-based monitoring tool written in Python",
+    "url": "https://nicolargo.github.io/glances/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "python"
-    ],
-    "url": "http://nicolargo.github.io/glances/"
+    ]
   }
 ]

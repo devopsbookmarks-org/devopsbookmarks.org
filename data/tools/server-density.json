@@ -3,6 +3,7 @@
     "slug": "server-density",
     "name": "Server Density",
     "description": "SaaS server and availability monitoring providing alerting, historical graphing, dashboards and log search.",
+    "url": "https://www.serverdensity.com",
     "tags": [
       "linux",
       "windows",
@@ -11,7 +12,6 @@
       "monitoring",
       "python",
       "commercial"
-    ],
-    "url": "https://www.serverdensity.com"
+    ]
   }
 ]

@@ -3,6 +3,7 @@
     "slug": "logster",
     "name": "Logster",
     "description": "Reads log files and generates metrics in Graphite, Ganglia or Amazon CloudWatch",
+    "url": "https://github.com/etsy/logster",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "python"
-    ],
-    "url": "https://github.com/etsy/logster"
+    ]
   }
 ]

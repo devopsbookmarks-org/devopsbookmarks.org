@@ -3,11 +3,11 @@
     "slug": "pagure",
     "name": "pagure",
     "description": "Pagure is an Open Source software code hosting system.",
+    "url": "https://pagure.io/",
     "tags": [
       "cloud",
       "open-source",
       "scm"
-    ],
-    "url": "https://pagure.io/"
+    ]
   }
 ]

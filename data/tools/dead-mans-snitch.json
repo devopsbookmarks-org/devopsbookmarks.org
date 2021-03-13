@@ -3,12 +3,12 @@
     "slug": "dead-mans-snitch",
     "name": "Dead Man’s Snitch",
     "description": "A cron job monitoring tool that keeps an eye on your crontab and notifies you when something doesn’t happen.",
+    "url": "https://deadmanssnitch.com/",
     "tags": [
       "linux",
       "free",
       "monitoring",
       "ruby"
-    ],
-    "url": "https://deadmanssnitch.com/"
+    ]
   }
 ]

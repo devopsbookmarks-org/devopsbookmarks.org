@@ -3,7 +3,7 @@
     "slug": "gocd",
     "name": "GoCD",
     "description": "Go is a continuous delivery and release management tool, built from the ground up with pipelines in mind, and makes it easy to model complex build and deploy workflows",
-    "url": "http://go.cd",
+    "url": "https://www.gocd.org/",
     "tags": [
       "linux",
       "windows",

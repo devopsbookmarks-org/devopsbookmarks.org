@@ -3,13 +3,13 @@
     "slug": "deploystudio",
     "name": "Deploy Studio",
     "description": "An tools for re-imaging and provisioning OSX devices",
+    "url": "http://www.deploystudio.com/",
     "tags": [
       "osx",
       "provisioning",
       "orchestration",
       "config",
       "hardening"
-    ],
-    "url": "http://www.deploystudio.com/"
+    ]
   }
 ]

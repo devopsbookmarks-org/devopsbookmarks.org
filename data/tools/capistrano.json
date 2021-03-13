@@ -3,6 +3,7 @@
     "slug": "capistrano",
     "name": "Capistrano",
     "description": "The Ruby equivalent of Fabric, Capistrano is a Ruby framework to configure and run deployment or system administration tasks on local or remote machines. It extends the Rake DSL to define tasks, and can group tasks by Roles.",
+    "url": "http://capistranorb.com",
     "tags": [
       "linux",
       "osx",
@@ -10,7 +11,6 @@
       "provisioning",
       "orchestration",
       "ruby"
-    ],
-    "url": "http://capistranorb.com"
+    ]
   }
 ]

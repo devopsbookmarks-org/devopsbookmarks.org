@@ -3,6 +3,7 @@
     "slug": "hudson-ci",
     "name": "Hudson",
     "description": "The original lightweight CI tool written in Java. Initially part of Sun, then acquired by Oracle, and now maintained to the Eclipse Foundation",
+    "url": "http://hudson-ci.org/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "ci",
       "java"
-    ],
-    "url": "http://hudson-ci.org/"
+    ]
   }
 ]
