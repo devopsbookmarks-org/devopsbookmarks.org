@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "ngrok",
+    "name": "Ngrok",
+    "description": "Ngrok provides secure, encrypted tunnels to local services with out the requirement for port forwarding.",
+    "url": "https://ngrok.com/",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "bsd",
+      "solaris",
+      "open-source",
+      "free",
+      "commercial",
+      "networking"
+    ]
+  }
+]
