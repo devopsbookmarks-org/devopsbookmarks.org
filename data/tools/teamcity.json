@@ -3,6 +3,7 @@
     "slug": "teamcity",
     "name": "TeamCity",
     "description": "From JetBrains (makers of IntelliJ), TeamCity is a feature packed CI tool with out-of-the-box support for Java, .Net, Ruby and many other languages. It has deep language-aware integration, like maven, RVM, rake, popular testing frameworks, code coverage, etc, and consequently it occupies more resources. It has a liberal free usage license.",
+    "url": "https://www.jetbrains.com/teamcity/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "free",
       "commercial",
       "ci"
-    ],
-    "url": "http://www.jetbrains.com/teamcity/"
+    ]
   }
 ]

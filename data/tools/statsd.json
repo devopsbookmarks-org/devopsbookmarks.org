@@ -3,6 +3,7 @@
     "slug": "statsd",
     "name": "Statsd",
     "description": "A network daemon that listens and collects statistics and sends aggregates to many pluggable backend services",
+    "url": "https://github.com/etsy/statsd/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "nodejs"
-    ],
-    "url": "https://github.com/etsy/statsd/"
+    ]
   }
 ]

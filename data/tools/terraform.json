@@ -3,6 +3,7 @@
     "slug": "terraform",
     "name": "Terraform",
     "description": "Terraform provides a common configuration to launch infrastructure from different providers (AWS, Digital Ocean, Heroku, etc.). It provides dependency resolution to make sure that your infrastructure is created in the right order",
+    "url": "https://www.terraform.io/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "cloud-paas",
       "go"
-    ],
-    "url": "https://www.terraform.io/"
+    ]
   }
 ]

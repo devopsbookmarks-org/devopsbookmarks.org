@@ -3,6 +3,7 @@
     "slug": "vaurien",
     "name": "Vaurien",
     "description": "A Chaos Monkey for TCP, it randomly disconnects or stalls TCP connections in your application to test application tolerance and high availability. Makes sure you correctly handle these unexpected events",
+    "url": "https://vaurien.readthedocs.io/en/1.8/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "security",
       "python"
-    ],
-    "url": "http://vaurien.readthedocs.org/"
+    ]
   }
 ]

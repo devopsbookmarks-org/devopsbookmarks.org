@@ -3,7 +3,7 @@
     "slug": "rancher",
     "name": "Rancher",
     "description": "Rancher is open source software that provides a complete infrastructure platform for running Docker in production.",
-    "url": "http://rancher.com/",
+    "url": "https://rancher.com/",
     "tags": [
       "linux",
       "open-source",

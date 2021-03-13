@@ -3,6 +3,7 @@
     "slug": "nagios-xi",
     "name": "Nagios XI",
     "description": "Nagios XI provides monitoring of all mission-critical infrastructure components including applications, services, operating systems, network protocols, systems metrics, and network infrastructure. Hundreds of third-party addons provide for monitoring of virtually all in-house and external applications, services, and systems.",
+    "url": "https://www.nagios.com/products/nagios-xi/",
     "tags": [
       "linux",
       "commercial",
@@ -14,7 +15,6 @@
       "python",
       "perl",
       "shell"
-    ],
-    "url": "https://www.nagios.com/products/nagios-xi/"
+    ]
   }
 ]

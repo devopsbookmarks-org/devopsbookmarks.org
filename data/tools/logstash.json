@@ -3,6 +3,7 @@
     "slug": "logstash",
     "name": "Logstash",
     "description": "A modern tool for managing events and logs, with an ElasticSearch backend which allows a high degree of searching and filtering. It includes a shipper in remote systems, indexer in the aggregator machine, and a Web UI.",
+    "url": "https://www.elastic.co/products/logstash",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "java"
-    ],
-    "url": "https://www.elastic.co/products/logstash"
+    ]
   }
 ]

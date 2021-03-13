@@ -3,6 +3,7 @@
     "slug": "puppet",
     "name": "Puppet",
     "description": "Puppet is a tool designed to manage the configuration of Unix-like and Microsoft Windows systems declaratively.",
+    "url": "https://www.puppet.com",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "config-mgmt",
       "ruby"
-    ],
-    "url": "https://www.puppet.com"
+    ]
   }
 ]

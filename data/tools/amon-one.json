@@ -3,6 +3,7 @@
     "slug": "amon-one",
     "name": "AmonOne",
     "description": "A modern, self-hosted server monitoring system with system monitoring, process monitoring and notifications",
+    "url": "https://www.amon.cx/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "python"
-    ],
-    "url": "https://www.amon.cx/"
+    ]
   }
 ]
