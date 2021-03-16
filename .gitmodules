@@ -1,6 +1,6 @@
 [submodule "modules/backend"]
 	path = modules/backend
-	url = git@github.com:zigsphere/devopsbookmarks-backend.git
+	url = https://github.com/devopsbookmarks-org/devopsbookmarks-backend.git
 [submodule "modules/frontend"]
 	path = modules/frontend
-	url = git@github.com:zigsphere/devopsbookmarks-frontend.git
+	url = https://github.com/devopsbookmarks-org/devopsbookmarks-frontend.git
