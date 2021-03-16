@@ -3,6 +3,7 @@
     "slug": "jmxtrans",
     "name": "jmxtrans",
     "description": "Plugs Java VM statistics via JMX to various backend monitoring tools",
+    "url": "https://github.com/jmxtrans/jmxtrans",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "java"
-    ],
-    "url": "https://github.com/jmxtrans/jmxtrans"
+    ]
   }
 ]

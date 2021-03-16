@@ -3,6 +3,7 @@
     "slug": "rollbar",
     "name": "Rollbar",
     "description": "Detect, diagnose and defeat errors.",
+    "url": "https://www.rollbar.com/",
     "tags": [
       "linux",
       "windows",
@@ -14,7 +15,6 @@
       "java",
       "python",
       "errors"
-    ],
-    "url": "http://www.rollbar.com/"
+    ]
   }
 ]

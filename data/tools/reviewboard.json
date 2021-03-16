@@ -3,13 +3,13 @@
     "slug": "reviewboard",
     "name": "Review Board",
     "description": "Review Board is a feature packed code review tool for multiple SCM systems (like git, bzr, cvs, subversion, etc).",
+    "url": "https://www.reviewboard.org/",
     "tags": [
       "linux",
       "open-source",
       "commercial",
       "scm",
       "python"
-    ],
-    "url": "http://www.reviewboard.org/"
+    ]
   }
 ]

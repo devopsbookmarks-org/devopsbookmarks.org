@@ -3,7 +3,7 @@
     "slug": "stackstorm",
     "name": "StackStorm",
     "description": "A platform for event-driven automation. StackStorm allows you to integrate and automate across services and tools. It ties together your existing infrastructure and application environment so you can more easily automate that environment -- with a particular focus on taking actions in response to events.",
-    "url": "http://www.stackstorm.com",
+    "url": "https://stackstorm.com",
     "tags": [
       "automation",
       "cd",
@@ -13,9 +13,7 @@
       "config-mgmt",
       "orchestration",
       "python",
-
       "linux",
-
       "open-source",
       "apache2"
     ]

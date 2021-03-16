@@ -3,6 +3,7 @@
     "slug": "orc",
     "name": "Orc",
     "description": "A model driven orchestration tool for deployment of application clusters",
+    "url": "https://github.com/tim-group/orc",
     "tags": [
       "linux",
       "windows",
@@ -11,7 +12,6 @@
       "provisioning",
       "orchestration",
       "ruby"
-    ],
-    "url": "https://github.com/youdevise/orc/"
+    ]
   }
 ]

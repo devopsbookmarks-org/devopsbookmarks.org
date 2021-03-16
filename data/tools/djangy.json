@@ -3,6 +3,7 @@
     "slug": "djangy",
     "name": "Djangy",
     "description": "An open source cloud hosting service for Python/Django web applications. Its like an open source Heroku for python/django",
+    "url": "https://github.com/dpaola2/djangy",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "cloud-paas",
       "python"
-    ],
-    "url": "https://github.com/dpaola2/djangy"
+    ]
   }
 ]

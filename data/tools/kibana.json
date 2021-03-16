@@ -3,6 +3,7 @@
     "slug": "kibana",
     "name": "Kibana",
     "description": "Kibana is a modern, beautiful visualization tool that works seamlessly with Logstash and ElasticSearch. It features a no-code setup, realtime analytics, and much more.",
+    "url": "https://www.elastic.co/kibana",
     "tags": [
       "linux",
       "windows",
@@ -11,7 +12,6 @@
       "monitoring",
       "nodejs",
       "visualization"
-    ],
-    "url": "http://www.elasticsearch.org/overview/kibana/"
+    ]
   }
 ]

@@ -2,7 +2,8 @@
   {
     "slug": "circleci",
     "name": "CircleCI",
-    "description" : "CircleCI is a hosted continious integration and deployment service that supports mobile, web and containerized apps. It integrates with GitHub seamlessly but with no other version control systems. CircleCI offers a single container to build multiple projects (even private ones) for free. It also supports parallelism with pricing plans.",
+    "description": "CircleCI is a hosted continious integration and deployment service that supports mobile, web and containerized apps. It integrates with GitHub seamlessly but with no other version control systems. CircleCI offers a single container to build multiple projects (even private ones) for free. It also supports parallelism with pricing plans.",
+    "url": "https://circleci.com/",
     "tags": [
       "linux",
       "osx",
@@ -10,7 +11,6 @@
       "commercial",
       "ci",
       "cd"
-    ],
-    "url": "https://circleci.com/"
+    ]
   }
 ]

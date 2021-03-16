@@ -3,12 +3,12 @@
     "slug": "sensu",
     "name": "Sensu",
     "description": "Sensu is a simple, malleable and scalable monitoring framework which is highly composable",
+    "url": "http://sensu.io/",
     "tags": [
       "linux",
       "open-source",
       "monitoring",
       "ruby"
-    ],
-    "url": "http://sensuapp.org"
+    ]
   }
 ]

@@ -3,6 +3,7 @@
     "slug": "bugsnag",
     "name": "bugsnag",
     "description": "Monitor everything you're building.",
+    "url": "https://bugsnag.com/",
     "tags": [
       "windows",
       "linux",
@@ -14,7 +15,6 @@
       "php",
       "nodejs",
       "errors"
-    ],
-    "url": "https://bugsnag.com/"
+    ]
   }
 ]

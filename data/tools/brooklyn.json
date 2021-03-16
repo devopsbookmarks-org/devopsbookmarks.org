@@ -3,6 +3,7 @@
     "slug": "brooklyn",
     "name": "Brooklyn",
     "description": "A Java based deployment tool, focused on both deployment as well as post-deploy lifecycle management. It is aware of network topologies, integrates with many cloud and PaaS APIs, and is designed to handle the entire roll-out",
+    "url": "https://brooklyn.apache.org/",
     "tags": [
       "linux",
       "windows",
@@ -11,7 +12,6 @@
       "provisioning",
       "orchestration",
       "java"
-    ],
-    "url": "http://brooklyncentral.github.io"
+    ]
   }
 ]

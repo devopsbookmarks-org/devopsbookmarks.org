@@ -3,6 +3,7 @@
     "slug": "berkshelf",
     "name": "Berkshelf",
     "description": "A cookbook source structure manager for Chef, similar to Bundler for Ruby. Each Chef cookbook can be structured as an individual entity and can be pulled into your main Chef workflows.",
+    "url": "http://berkshelf.com",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "scm",
       "ruby"
-    ],
-    "url": "http://berkshelf.com"
+    ]
   }
 ]

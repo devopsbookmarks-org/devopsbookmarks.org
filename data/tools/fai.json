@@ -3,13 +3,13 @@
     "slug": "fai",
     "name": "FAI",
     "description": "Fully Automatic Installation (FAI) is a tool for mass unattended deployment of Linux. You can take one or more virgin PCs, turn on the power, and after a few minutes, the systems are installed and completely configured.",
+    "url": "http://fai-project.org",
     "tags": [
       "linux",
       "open-source",
       "config-mgmt",
       "provisioning",
       "perl"
-    ],
-    "url": "http://fai-project.org"
+    ]
   }
 ]

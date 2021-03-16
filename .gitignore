@@ -1,0 +1,9 @@
+# System Generated Files
+.vagrant
+ubuntu*
+node_modules
+.git
+.DS_Store*
+.Spotlight-V100
+.Trashes
+

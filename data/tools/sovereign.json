@@ -3,12 +3,12 @@
     "slug": "sovereign",
     "name": "Sovereign",
     "description": "A set of Ansible playbooks to configure and maintain your own personal cloud, including email, calendars, file storage, vpn, irc, etc. A nice collection of utilities as well as a good showcase of Ansible's features",
+    "url": "https://github.com/sovereign/sovereign",
     "tags": [
       "linux",
       "open-source",
       "cloud-paas",
       "python"
-    ],
-    "url": "https://github.com/al3x/sovereign"
+    ]
   }
 ]

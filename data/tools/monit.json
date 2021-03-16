@@ -3,6 +3,7 @@
     "slug": "monit",
     "name": "Monit",
     "description": "An open source utility for managing and monitoring processes, programs, files, directories and filesystems",
+    "url": "https://mmonit.com/monit/",
     "tags": [
       "linux",
       "osx",
@@ -10,7 +11,6 @@
       "monitoring",
       "process-mgmt",
       "c"
-    ],
-    "url": "http://mmonit.com/monit/"
+    ]
   }
 ]

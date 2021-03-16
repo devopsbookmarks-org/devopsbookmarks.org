@@ -3,6 +3,7 @@
     "slug": "bento",
     "name": "Bento",
     "description": "A modularized collection of Packer definitions for building machine images. A good place to start with Packer.",
+    "url": "http://chef.github.io/bento/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "virt",
       "ruby"
-    ],
-    "url": "https://github.com/opscode/bento"
+    ]
   }
 ]

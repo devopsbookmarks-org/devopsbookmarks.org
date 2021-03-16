@@ -3,11 +3,11 @@
     "slug": "etcd",
     "name": "etcd",
     "description": "A highly-available key value store for shared configuration and service discovery.",
+    "url": "https://coreos.com/using-coreos/etcd/",
     "tags": [
       "linux",
       "open-source",
       "service-discovery"
-    ],
-    "url": "https://coreos.com/using-coreos/etcd/"
+    ]
   }
 ]

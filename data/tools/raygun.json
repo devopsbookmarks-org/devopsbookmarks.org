@@ -3,6 +3,7 @@
     "slug": "raygun",
     "name": "Raygun",
     "description": "Raygun keeps a watchful eye on your web and mobile applications and tells you when problems arise.",
+    "url": "https://raygun.com/",
     "tags": [
       "windows",
       "linux",
@@ -13,7 +14,6 @@
       "java",
       "ruby",
       "errors"
-    ],
-    "url": "https://raygun.com/"
+    ]
   }
 ]

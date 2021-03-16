@@ -3,6 +3,7 @@
     "slug": "monigusto",
     "name": "Monigusto",
     "description": "A collection of Chef recipes to install various monitoring tools (such as sensu, statsd, etc). Makes it a breeze to get a monitoring infrastructure up and running",
+    "url": "https://github.com/monigusto",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "ruby"
-    ],
-    "url": "https://github.com/monigusto"
+    ]
   }
 ]

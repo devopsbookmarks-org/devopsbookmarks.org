@@ -3,6 +3,7 @@
     "slug": "uptime",
     "name": "Uptime",
     "description": "An externally deployable application that keeps pinging and monitoring the uptime and availability of your real applications and services. It helps you track these metrics from the outside without affecting any of your servers.",
+    "url": "http://www.redotheweb.com/uptime/",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "monitoring",
       "nodejs"
-    ],
-    "url": "https://github.com/fzaninotto/uptime"
+    ]
   }
 ]

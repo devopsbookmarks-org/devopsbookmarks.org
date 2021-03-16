@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - '13'
+install:
+  - npm install --silent
+script:
+  - npm build
+notifications:
+  email: false

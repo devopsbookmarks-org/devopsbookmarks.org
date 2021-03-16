@@ -2,8 +2,8 @@
   {
     "slug": "grafana",
     "name": "Grafana",
-    "description": "Graphite and InfluxDB dashboard and graph composer",
-    "url": "http://grafana.org/",
+    "description": "The most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data",
+    "url": "https://grafana.com/",
     "tags": [
       "linux",
       "open-source",

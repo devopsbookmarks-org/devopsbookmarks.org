@@ -3,6 +3,7 @@
     "slug": "veewee",
     "name": "Veewee",
     "description": "veewee is a great tool for building Virtual Machine images (aka base boxes). It automates most of the steps and allows you to easily create readymade images for VirtualBox/Vagrant, VMWare Fusion, KVM and Parallels. No longer need to shy away from building custom VM images!",
+    "url": "https://github.com/jedi4ever/veewee",
     "tags": [
       "linux",
       "osx",
@@ -11,7 +12,6 @@
       "virt",
       "packaging",
       "ruby"
-    ],
-    "url": "https://github.com/jedi4ever/veewee"
+    ]
   }
 ]

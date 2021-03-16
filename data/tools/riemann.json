@@ -3,12 +3,12 @@
     "slug": "riemann",
     "name": "Riemann",
     "description": "Riemann aggregates events from servers and applications, notifies exceptions, tracks latency, collects system statistics and more, all with a powerful stream processing language",
+    "url": "http://riemann.io",
     "tags": [
       "linux",
       "open-source",
       "monitoring",
       "clojure"
-    ],
-    "url": "http://riemann.io"
+    ]
   }
 ]

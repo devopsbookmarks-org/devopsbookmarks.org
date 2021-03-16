@@ -3,6 +3,7 @@
     "slug": "rex",
     "name": "Rex",
     "description": "A agent-less server orchestration tool built on Perl",
+    "url": "https://www.rexify.org",
     "tags": [
       "linux",
       "windows",
@@ -10,7 +11,6 @@
       "open-source",
       "orchestration",
       "perl"
-    ],
-    "url": "http://www.rexify.org"
+    ]
   }
 ]

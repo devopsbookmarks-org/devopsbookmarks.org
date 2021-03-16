@@ -3,12 +3,12 @@
     "slug": "openstack",
     "name": "OpenStack",
     "description": "An open source, massively scalable cloud operating system used for building private and public clouds",
+    "url": "https://www.openstack.org",
     "tags": [
       "linux",
       "open-source",
       "virt",
       "cloud-paas"
-    ],
-    "url": "http://www.openstack.org"
+    ]
   }
 ]
