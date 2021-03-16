@@ -13,6 +13,13 @@ and frameworks.
 [![Build Status](https://travis-ci.org/zigsphere/devopsbookmarks.org.svg?branch=master)](https://travis-ci.org/zigsphere/devopsbookmarks.org)
 [![CircleCI](https://circleci.com/gh/zigsphere/devopsbookmarks.org.svg?style=shield)](https://circleci.com/gh/zigsphere/devopsbookmarks.org)
 
+## Modules
+
+devopsbookmarks.org is split in to two separate modules:
+
+* [Frontend](https://github.com/zigsphere/devopsbookmarks-frontend) (Angular 11)
+* [Backend](https://github.com/zigsphere/devopsbookmarks-backend) (Nestjs)
+
 ## Contributing
 
 Refer to [CONTRIBUTING.md](https://github.com/zigsphere/devopsbookmarks.org/blob/master/CONTRIBUTING.md)
