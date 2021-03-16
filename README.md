@@ -11,7 +11,6 @@ and frameworks.
 ## Current Build Status
 
 [![Build Status](https://api.travis-ci.org/devopsbookmarks/devopsbookmarks.com.svg?branch=master)](https://travis-ci.org/github/devopsbookmarks/devopsbookmarks.com)
-[![CircleCI](https://circleci.com/gh/zigsphere/devopsbookmarks.org.svg?style=shield)](https://circleci.com/gh/zigsphere/devopsbookmarks.org)
 
 ## Modules
 
