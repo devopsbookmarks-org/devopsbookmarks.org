@@ -1,12 +1,9 @@
-
 {
   "name": "devops",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node server.js",
-    "build": "script/build",
-    "heroku-postbuild": "script/build"
+    "start": "node server.js"
   },
   "engines": {
     "node": "12.x"
