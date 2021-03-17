@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "modules": {
+    "notifications": [
+      {
+        "status": "OK",
+        "endpoint_conf_name": "DSICommunity-Zig-VPS",
+        "endpoint_conf": {
+          "discord_url": "https://discord.com/api/your-webhook"
+        },
+        "endpoint_key": "discord",
+        "recipients": [
+          {
+            "recipient_name": "DSICommunity-Zig-VPS-Recpt",
+            "endpoint_key": "discord",
+            "user_script_categories": [
+              2,
+              3,
+              0,
+              1,
+              4
+            ],
+            "recipient_params_fmt": " (Discord)",
+            "recipient_id": 1,
+            "minimum_severity": 4,
+            "endpoint_conf": {
+              "discord_url": "https://discord.com/api/your-webhook"
+            },
+            "endpoint_conf_name": "DSICommunity-Zig-VPS",
+            "recipient_params": {
+              "discord_username": ""
+            }
+          }
+        ]
+      },
+      {
+        "status": "OK",
+        "endpoint_conf_name": "builtin_config_sqlite",
+        "endpoint_conf": {
+          "builtin": true
+        },
+        "endpoint_key": "sqlite",
+        "recipients": [
+          {
+            "recipient_name": "builtin_recipient_sqlite",
+            "endpoint_key": "sqlite",
+            "user_script_categories": [
+              4,
+              3,
+              1,
+              2,
+              0
+            ],
+            "recipient_params_fmt": "",
+            "recipient_id": 0,
+            "minimum_severity": 3,
+            "endpoint_conf": {
+              "builtin": true
+            },
+            "endpoint_conf_name": "builtin_config_sqlite",
+            "recipient_params": []
+          }
+        ]
+      }
+    ]
+  }
+}
