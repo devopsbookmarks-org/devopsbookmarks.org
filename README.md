@@ -10,7 +10,7 @@ and frameworks.
 
 ## Current Build Status
 
-[![Build Status](https://api.travis-ci.org/devopsbookmarks/devopsbookmarks.com.svg?branch=master)](https://travis-ci.org/github/devopsbookmarks/devopsbookmarks.com)
+[![Build Status](https://travis-ci.com/devopsbookmarks-org/devopsbookmarks.org.svg?branch=main)](https://travis-ci.com/github/devopsbookmarks-org/devopsbookmarks.org)
 [![Build Status](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-v1)](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-v1)
 
 ## Modules
