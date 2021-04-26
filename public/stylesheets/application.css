@@ -228,6 +228,11 @@ a, a:link, a:visited, a:active {
   padding: 0.5rem;
   border-bottom: 1px dashed #FFFFFF;
 }
+.search-bar {
+  float: right;
+  margin: 0 0.5rem;
+  padding: 0.5rem;
+}
 @media only screen and (min-width:640px) and (max-width:99999999px) {
   .content .random-tool {
     width: 300px;
