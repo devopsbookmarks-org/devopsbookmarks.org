@@ -1,4 +1,4 @@
-FROM node:13
+FROM node:14
 RUN mkdir /opt/devops
 WORKDIR /opt/devops
 COPY package*.json ./
