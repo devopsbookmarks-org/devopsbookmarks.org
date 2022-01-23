@@ -26,6 +26,7 @@
         "normalize-scss": "latest",
         "static-asset": "^0.6.0",
         "underscore": "^1.12.1",
-        "walk": "^2.3.9"
+        "walk": "^2.3.9",
+        "trim-newlines": ">=3.0.1"
     }
 }
