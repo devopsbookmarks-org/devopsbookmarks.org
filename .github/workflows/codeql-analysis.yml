@@ -17,8 +17,7 @@ on:
       - main
       - development
   pull_request:
-    branches: 
-      - main
+       -main
       - development
   #schedule:
    # - cron: '38 18 * * 2'
