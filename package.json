@@ -4,6 +4,7 @@
     "private": true,
     "scripts": {
         "start": "node server.js"
+        "build": "script/build",
     },
     "engines": {
         "node": "12.x"
