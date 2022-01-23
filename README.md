@@ -1,6 +1,6 @@
 # Devops Bookmarks
 
-Welcome to DevOpsBookmarks, home of https://www.devopsbookmarks.org. This is a fork of the original www.devopsbookmarks.com: https://github.com/devopsbookmarks/devopsbookmarks.com; however, we've decided to maintain this as the original site is down.
+Welcome to DevOpsBookmarks, home of https://www.devopsbookmarks.org. This is a fork of the original www.devopsbookmarks.com: https://github.com/devopsbookmarks/devopsbookmarks.com.
 
 > To discover tools in the devops landscape.
 
@@ -10,8 +10,10 @@ and frameworks.
 
 ## Current Build Status
 
-[![Build Status](https://travis-ci.com/devopsbookmarks-org/devopsbookmarks.org.svg?branch=main)](https://travis-ci.com/github/devopsbookmarks-org/devopsbookmarks.org)
-[![Build Status](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-v1)](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-v1)
+[![Build Status][build_image]][build_page]
+
+[build_image]: https://github.com/devopsbookmarks-org/devopsbookmarks.org/actions/workflows/codeql-analysis.yml/badge.svg
+[build_page]: https://github.com/devopsbookmarks-org/devopsbookmarks.org/actions
 
 ## Modules
 
