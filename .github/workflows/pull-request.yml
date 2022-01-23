@@ -1,10 +1,14 @@
+name: Pull Request
+
 on:
   push:
     branches:
       - main
+      - developemen
+  pull_request:
+    branches:
+      - main
       - developement
-
-name: Pull Request
 
 jobs:
   ci:
