@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "appcircle",
+    "name": "Appcircle",
+    "description": "Appcircle is an easy-to-use mobile CI/CD platform that manages mobile app lifecycle end-to-end, transforming DevOps to NoOps with the best practices. With Appcircle you can build your iOS, Android, React Native, Flutter apps within seconds, run tests, distribute to tester groups and App Stores. You can also create your own App Store for in-house distribution. And use Apple Silicon M1 infrastructure for fastest cloud builds, or use your own build machines with Appcircle self-hosted runners.",
+    "url": "https://appcircle.io",
+    "tags": [
+      "osx",
+      "open-source",
+      "free",
+      "commercial",
+      "ci",
+      "cd",
+      "cloud",
+      "cloud-paas",
+      "paas"
+    ]
+  }
+]
