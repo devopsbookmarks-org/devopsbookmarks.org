@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "nosana",
+    "name": "Nosana",
+    "description": "Nosana is a decentralized continious integration and deployment service that supports containerized apps and fully integrates with GitHub. Easily test your projects, deploy and sync them with the network. You’ll be testing your code in minutes, experiencing the future of web3 development.",
+    "url": "https://nosana.io/",
+    "tags": [
+      "linux",
+      "open-source",
+      "ci",
+      "cd",
+    ]
+  }
+]
