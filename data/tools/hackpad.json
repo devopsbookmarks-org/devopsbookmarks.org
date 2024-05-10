@@ -1,0 +1,13 @@
+[
+  {
+    "description": "A lightweight, markdown based, document creation platform packed full of features such as: realtime collaboration, offline document reading (via dropbox), in documment comments, search / tagging and full diff'd changelog. Private workspaces free for the first 5 users, Public workspaces always free.",
+    "name": "Hackpad",
+    "slug": "hackpad",
+    "tags": [
+      "documentation",
+      "free",
+      "commercial"
+    ],
+    "url": "http://www.hackpad.com/"
+  }
+]

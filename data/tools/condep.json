@@ -1,0 +1,16 @@
+[
+  {
+    "description": "ConDep is a open source infrastructure configuration and deployment DSL (Domain Specific Language) specifically targeted to (but not limited to) the Windows Server platform. If your familiar with tools like Chef and Puppet, ConDep does very much the same, but with native support for Windows.",
+    "name": "ConDep",
+    "slug": "condep",
+    "tags": [
+      "windows",
+      "open-source",
+      "ci",
+      "provisioning",
+      "config-mgmt",
+      "net"
+    ],
+    "url": "http://www.condep.io/"
+  }
+]

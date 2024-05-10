@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Build and distribute Linux packages from sources in an automatic, consistent and reproducible way",
+    "name": "Open Build Service",
+    "slug": "obs",
+    "tags": [
+      "linux",
+      "open-source",
+      "cd",
+      "open-source"
+    ],
+    "url": "http://openbuildservice.org/"
+  }
+]

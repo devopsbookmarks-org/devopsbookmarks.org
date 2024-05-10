@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Lightweight Data Shippers. Beats is the platform for single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.",
+    "name": "Beats",
+    "slug": "beats",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "metrics",
+      "logging",
+      "monitoring"
+    ],
+    "url": "https://www.elastic.co/products/beats"
+  }
+]

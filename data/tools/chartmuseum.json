@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Host your own Helm Chart Repository ChartMuseum is an open-source, easy to deploy, Helm Chart Repository server.",
+    "name": "ChartMuseum",
+    "slug": "chartmuseum",
+    "tags": [
+      "linux",
+      "open-source",
+      "packaging",
+      "artifacts"
+    ],
+    "url": "https://chartmuseum.com/"
+  }
+]
