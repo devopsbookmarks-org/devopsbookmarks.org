@@ -1,0 +1,18 @@
+[
+  {
+    "description": "The open source git server with unique features.",
+    "name": "OneDev",
+    "slug": "onedev",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "bsd",
+      "solaris",
+      "open-source",
+      "scm",
+      "vcs"
+    ],
+    "url": "https://onedev.io/"
+  }
+]

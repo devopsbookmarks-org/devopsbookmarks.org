@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Nomad is a lightweight workload orchestrator. It offers client instance scaling as well as workload scaling.",
+    "name": "Nomad",
+    "slug": "nomad",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "virt",
+      "orchestration",
+      "go"
+    ],
+    "url": "https://github.com/hashicorp/nomad"
+  }
+]

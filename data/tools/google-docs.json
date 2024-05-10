@@ -1,0 +1,13 @@
+[
+  {
+    "description": "A powerful document creation platform. Supports features such as: realtime collaboration, offline document editing, inline document comments, search and full differential changelog. Free for personal use, costs for commercial",
+    "name": "Google Docs",
+    "slug": "google-docs",
+    "tags": [
+      "documentation",
+      "free",
+      "commercial"
+    ],
+    "url": "http://www.google.com/docs/about/"
+  }
+]

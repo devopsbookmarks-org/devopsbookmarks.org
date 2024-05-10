@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Intelliment is a platform to allow enterprises to automate their network security policy management in order to help them better handle their security at scale and to respond faster to network threats",
+    "name": "Intelliment Security Policy Automation",
+    "slug": "intelliment",
+    "tags": [
+      "linux",
+      "commercial",
+      "security",
+      "orchestration",
+      "provisioning",
+      "networking",
+      "firewall"
+    ],
+    "url": "http://www.intellimentsec.com"
+  }
+]

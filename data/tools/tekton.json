@@ -1,0 +1,15 @@
+[
+  {
+    "description": " A Kubernetes-native pipeline resource. The Tekton Pipelines project provides Kubernetes-style resources for declaring CI/CD-style pipelines.",
+    "name": "Tekton",
+    "slug": "tekton",
+    "tags": [
+      "linux",
+      "open-source",
+      "ci",
+      "cd",
+      "kubernetes"
+    ],
+    "url": "https://tekton.dev/"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Infrastructure as Code security scanner supporting Kubernetes, Helm, Terraform, CloudFormation, ARM templates and more.",
+    "name": "Checkov",
+    "slug": "checkov",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "security"
+    ],
+    "url": "https://checkov.io"
+  }
+]

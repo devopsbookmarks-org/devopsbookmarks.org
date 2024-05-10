@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Apache Allura is an open source implementation of a software forge, a web site that manages source code repositories, bug reports, discussions, wiki pages, blogs, and more for any number of individual projects.",
+    "name": "Apache Allura",
+    "slug": "apache-allura",
+    "tags": [
+      "linux",
+      "open-source",
+      "scm",
+      "vcs"
+    ],
+    "url": "http://allura.apache.org/"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "description": "Compliance automation",
+    "name": "Simp",
+    "slug": "simp",
+    "tags": [
+      "linux",
+      "open-source",
+      "security"
+    ],
+    "url": "https://www.simp-project.com/"
+  }
+]

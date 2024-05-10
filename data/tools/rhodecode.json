@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof",
+    "name": "RhodeCode",
+    "slug": "rhodecode",
+    "tags": [
+      "linux",
+      "open-source",
+      "scm",
+      "vcs"
+    ],
+    "url": "https://rhodecode.com"
+  }
+]
