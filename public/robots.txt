@@ -1,4 +1,22 @@
 # robotstxt.org/
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: noai
+Disallow: /
+
 User-agent: *
 Disallow:
