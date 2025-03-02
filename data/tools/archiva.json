@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Apache Archiva™ is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository.",
+    "name": "Archiva",
+    "slug": "archiva",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "bsd",
+      "solaris",
+      "open-source",
+      "artifacts"
+    ],
+    "url": "http://archiva.apache.org"
+  }
+]

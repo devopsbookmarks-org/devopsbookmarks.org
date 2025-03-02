@@ -1,0 +1,19 @@
+[
+  {
+    "description": "Jenkins X provides pipeline automation, built-in GitOps and preview environments to help teams collaborate and accelerate their software delivery at any scale.",
+    "name": "Jenkins X",
+    "slug": "jenkinsx",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "ci",
+      "cd",
+      "artifacts",
+      "packaging",
+      "provisioning"
+    ],
+    "url": "https://jenkins-x.io/"
+  }
+]

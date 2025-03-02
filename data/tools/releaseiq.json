@@ -1,0 +1,16 @@
+[
+  {
+    "description": "ReleaseIQ helps companies accelerate software product release cycles while improving quality and efficiency with an Enterprise DevOps Platform that leverages existing CI/CD tools",
+    "name": "ReleaseIQ",
+    "slug": "ReleaseIQ",
+    "tags": [
+      "linux",
+      "free",
+      "commercial",
+      "ci",
+      "cd",
+      "orchestration"
+    ],
+    "url": "https://www.releaseiq.io"
+  }
+]

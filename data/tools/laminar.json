@@ -1,0 +1,13 @@
+[
+  {
+    "description": "Laminar is a lightweight and modular Continuous Integration service for Linux. It is self-hosted and developer-friendly, eschewing a configuration web UI in favor of simple version-controllable configuration files and scripts.",
+    "name": "Laminar",
+    "slug": "laminar",
+    "tags": [
+      "linux",
+      "open-source",
+      "ci"
+    ],
+    "url": "https://laminar.ohwg.net/"
+  }
+]

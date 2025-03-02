@@ -1,0 +1,16 @@
+[
+  {
+    "description": "Skaffold handles the workflow for building, pushing and deploying your application. So you can focus more on application development.",
+    "name": "Skaffold",
+    "slug": "skaffolddev",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "open-source",
+      "ci",
+      "cd"
+    ],
+    "url": "https://skaffold.dev/"
+  }
+]

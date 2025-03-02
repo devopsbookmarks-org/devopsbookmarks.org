@@ -1,0 +1,14 @@
+[
+  {
+    "description": "A platform for managing software package repositories",
+    "name": "Pulp",
+    "slug": "pulp",
+    "tags": [
+      "linux",
+      "open-source",
+      "packaging",
+      "python"
+    ],
+    "url": "http://www.pulpproject.org"
+  }
+]
