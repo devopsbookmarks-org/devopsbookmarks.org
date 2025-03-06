@@ -20,6 +20,7 @@
     <% include _sidebar %>
 
     <div class="content">
+      <input class="search-bar" type="text" id="search-input" onkeyup="filter()" placeholder="Search...">
       <div class="content-grid">
         <% _u.each(tools, function(tool) { %>
           <% include _tool %>
@@ -40,6 +41,7 @@
 
     gtag('config', 'UA-158624199-1');
   </script>
+  <script src="<%= assetFingerprint('/js/filter.js') %>"></script>
 
 </body>
 </html>
