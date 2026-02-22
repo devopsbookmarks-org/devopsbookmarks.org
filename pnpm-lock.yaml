@@ -30,7 +30,7 @@ importers:
         specifier: ^4.13.3
         version: 4.21.2
       grunt:
-        specifier: latest
+        specifier: ^1.6.1
         version: 1.6.1
       grunt-cli:
         specifier: latest

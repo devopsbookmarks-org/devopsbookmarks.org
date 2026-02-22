@@ -20,7 +20,7 @@
     "ejs": "^2.3.4",
     "errorhandler": "^1.4.2",
     "express": "^4.13.3",
-    "grunt": "latest",
+    "grunt": "^1.6.1",
     "grunt-cli": "latest",
     "grunt-contrib-watch": "latest",
     "grunt-express-server": "latest",
