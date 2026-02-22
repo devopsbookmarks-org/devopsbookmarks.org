@@ -17,7 +17,7 @@
     "bourbon": "latest",
     "compression": "^1.8.1",
     "connect-redirecthost": "^2.0.0",
-    "ejs": "^2.3.4",
+    "ejs": "^3.1.10",
     "errorhandler": "^1.4.2",
     "express": "^4.13.3",
     "grunt": "^1.6.1",
