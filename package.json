@@ -10,7 +10,8 @@
   },
   "pnpm": {
     "overrides": {
-      "qs": "6.15.0"
+      "qs": "6.15.0",
+       "on-headers": "1.1.0"
     }
   },
   "dependencies": {
