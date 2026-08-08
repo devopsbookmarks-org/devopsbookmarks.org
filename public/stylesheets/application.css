@@ -68,11 +68,27 @@ a, a:link, a:visited, a:active {
   content: "";
   display: block;
 }
-.nav .menu h3 {
+.nav .menu h3, .nav .menu summary {
   margin: 0;
   padding: 7px 10px;
   text-transform: uppercase;
   background: rgba(103, 166, 166, 0.5);
+}
+.nav .menu summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  list-style: none;
+}
+.nav .menu summary::-webkit-details-marker {
+  display: none;
+}
+.nav .menu summary .chevron {
+  transition: transform 0.2s;
+}
+.nav .menu details[open] > summary .chevron {
+  transform: rotate(180deg);
 }
 .nav .menu a, .nav .menu a:link, .nav .menu a:visited, .nav .menu a:active, .nav .menu a:hover {
   display: block;
